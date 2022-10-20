@@ -1,0 +1,39 @@
+{
+    "information":[
+        {
+            "name":"Mahmoud Khleif",
+            "email":"Mahmoud89ah@hotmail.com",
+            "city":"Göteborg",
+            "webSite":"https://github.com/MahmoudKhleif"
+        }
+    ],
+   
+    "websites":
+    [
+    {
+        "sitename":"github",
+        "siteurl":"https://github.com/MahmoudKhleif",
+        "description":"github is an Internet hosting service for version control and software development using Git. "
+    },
+    {
+        "sitename":"Udemy",
+        "siteurl":"https://www.udemy.com/",
+        "description":"An online educational platform with a variety of educational contents."
+    },
+    {
+        "sitename":"Bootstrap",
+        "siteurl":"https://getbootstrap.com/",
+        "description":"Bootstrap is one of the most powerful and popular libraries that combine HTML, CSS and JS to create websites, pages and web applications."
+    },
+    {
+        "sitename":"W3Schools",
+        "siteurl":"https://www.w3schools.com/",
+        "description":"W3Schools is an online educational website for teaching web development languages"
+    },
+    {
+        "sitename":"npm",
+        "siteurl":"https://www.npmjs.com/",
+        "description":"npm is a package manager for the JavaScript programming language maintained by npm"
+    }
+    ]
+}
